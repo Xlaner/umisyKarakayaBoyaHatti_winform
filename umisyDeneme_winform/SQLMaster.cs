@@ -62,7 +62,7 @@ namespace umisyDeneme_winform
         public bool kvy9UrunVar = false;
         public List<Urun> urunListesi = new List<Urun>();
 
-
+        
 
         private void timer1_Tick(object sender, EventArgs e)
         {
